@@ -1,5 +1,4 @@
 # conflict-resolution
+## This is a subheading
 
-## this is a sub-heading created locallay
-
-all of this content added to the README file has been added from my local git repo
+This change was made directly in the git hub repository
